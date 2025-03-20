@@ -2,21 +2,21 @@
 
 https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
-# ETL Process 
+# Questions 
 
+# ETL Process 
+The ETL (Extract, Transform, Load) process is a structured approach used in data integration to ensure that data is clean, consistent, and ready for analysis. Using Power Query, I performed the following steps:
 
 ## 1. Extract
-First of all, I used Power Query to extract data from `customer_shopping_trends.xlsx` and create a query
+The first step involved extracting data from `customer_shopping_trends.xlsx` into Power Query. This allowed me to create a query that pulls raw data directly from the source, ensuring accessibility for further transformations.
 
 ![image](https://github.com/user-attachments/assets/7c5dbfd0-2cf7-4a5e-b4fe-84f3269ccf24)
 
-Here’s a refined and well-structured version of your **Power Query Project – Transform Section** with improved readability and clarity:  
 
 ---
 
 ## 2. Transform  
-
-As part of the data transformation process, I performed several key steps to ensure data accuracy, consistency, and enhanced analytical capabilities.  
+Once the data was extracted, I applied multiple transformations in Power Query to clean, standardize, and enhance the dataset, ensuring data accuracy and usability. 
 
 ### Data Cleaning and Standardization  
 - Checked and updated **data types** for all columns to ensure correctness.  
@@ -28,10 +28,10 @@ As part of the data transformation process, I performed several key steps to ens
 ### Enhancing Data for Analysis  
 To improve data insights and usability, I added three new columns in Power Query using the **"Add Column"** feature:  
 
-#### **1. Age Group**  
+#### 1. Age Group  
 This column segments customers into age brackets to analyze **purchasing trends** across different demographics. It helps in identifying consumer behavior patterns based on age.  
 
-##### **M Language Formula:**  
+##### M Language Formula:  
 ```M
 = if [Age] >= 0 and [Age] <= 12 then "Child"
   else if [Age] >= 13 and [Age] <= 18 then "Teenager"
@@ -41,10 +41,10 @@ This column segments customers into age brackets to analyze **purchasing trends*
   else "Senior"
 ```  
 
-#### **2. Review Rating Category**  
+#### 2. Review Rating Category  
 This column categorizes **customer review ratings** into five levels: **Very Dissatisfied, Dissatisfied, Acceptable, Satisfied, and Very Satisfied**. This classification simplifies **customer sentiment analysis** and helps in evaluating product/service performance.  
 
-##### **M Language Formula:**  
+##### M Language Formula:  
 ```M
 if [Review Rating] >= 1 and [Review Rating] < 2 then "Very Dissatisfied"
 else if [Review Rating] >= 2 and [Review Rating] < 3 then "Dissatisfied"
@@ -53,10 +53,10 @@ else if [Review Rating] >= 4 and [Review Rating] < 5 then "Satisfied"
 else "Very Satisfied"
 ```  
 
-#### **3. State Code**  
+#### 3. State Code  
 This column converts **full state names** into their respective **two-letter abbreviations** (e.g., *California → CA*). This transformation ensures **data consistency, simplifies geographic analysis**, and makes the dataset compatible with external reporting tools.  
 
-##### **M Language Formula:**  
+##### M Language Formula:  
 ```M
 = if [#"State (U.S.)"] = null then "Unknown"
   else if [#"State (U.S.)"] = "Alabama" then "AL"
@@ -67,15 +67,22 @@ This column converts **full state names** into their respective **two-letter abb
   ...
   else if [#"State (U.S.)"] = "Wyoming" then "WY"
   else "Unknown"
-```  
+```
+#### Applied Steps in Power Query
+Throughout the transformation process, multiple steps were applied in Power Query, including data type modifications, column additions, renaming, and reordering for better organization.
+
+![image](https://github.com/user-attachments/assets/be0e20aa-61a8-4187-9f5c-d4a646f17277)
+
+
 
 ### 3. Load
+Once all transformations were completed, I loaded the cleaned and structured query into the Excel workbook. This finalized dataset serves as the foundation for further analysis, allowing for data visualization, reporting, and insights generation.
+
+![image](https://github.com/user-attachments/assets/01314675-d48b-4609-8d35-cbc76d89e12f)
 
 
-## Transform
 
 
-## Load
 
 
 
