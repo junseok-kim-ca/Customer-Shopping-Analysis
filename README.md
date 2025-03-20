@@ -11,6 +11,8 @@ First of all, I used Power Query to extract data from `customer_shopping_trends.
 
 ### 2. Transform
 
+I create new columns: Age Group,  
+
 
 ### 3. Load
 
