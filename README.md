@@ -4,6 +4,8 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 # Questions 
 
+
+
 # ETL Process 
 The ETL (Extract, Transform, Load) process is a structured approach used in data integration to ensure that data is clean, consistent, and ready for analysis. Using Power Query, I performed the following steps:
 
