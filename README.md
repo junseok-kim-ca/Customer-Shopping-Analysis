@@ -4,9 +4,9 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 # Questions 
 
-1. What is the most common item purchased?
+1. Which product do customers buy the most frequently? 
 2. What is the most common payment method used by customers?
-3. What is the most common season for purchases?
+3. During which season do customers make the most purchases?
 
 * KPI
 4. What is our total revenue segmented by customer demographics, and season?
