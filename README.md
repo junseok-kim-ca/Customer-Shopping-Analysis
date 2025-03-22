@@ -4,9 +4,10 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 # Questions 
 
-1. Which product do customers buy the most frequently? 
-2. What is the most common payment method used by customers?
-3. During which season do customers make the most purchases?
+1. What is the most popular Item Category purchased by customers?
+2. What is the average Purchase Amount (USD)?
+3. Which payment option do customers prefer the most?
+
 
 * KPI
 4. What is our total revenue segmented by customer demographics, and season?
@@ -101,6 +102,7 @@ Once all transformations were completed, I loaded the cleaned and structured que
 ![image](https://github.com/user-attachments/assets/01314675-d48b-4609-8d35-cbc76d89e12f)
 
 
+# Analysis
 
 
 
