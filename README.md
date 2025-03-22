@@ -9,17 +9,14 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 3. What is the most common season for purchases?
 
 * KPI
-4. What is our total revenue segmented by Age Group, Gender, and Season?
-5. Which Item Category drives the most revenue in each State?
-6. What is the average order value (AOV) by Payment Method across different Age Groups?
-7. How do our sales trends differ across Seasons when filtered by Gender and State?
-8. What is the revenue contribution of each Item Category when filtered by Payment Method, Age Group, and Gender?
+4. What is our total revenue segmented by customer demographics, and season?
+5. Which item category drives the most revenue in each State?
+  
 
 * Correlation Question & Hard Questions 
-9. How do customer demographics influence payment preferences and buying frequency?
-10. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
-11. How do payment method and shipping type correlate with review rating and review rating category? Are certain combinations linked to higher or lower customer satisfaction?
-12. Which states or state codes produce the highest total purchase amount and best review ratings?
+6. How do customer demographics influence payment preferences and buying frequency?
+7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
+8. Which states produce the highest total purchase amount and best review ratings?
 
   
 
