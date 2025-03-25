@@ -1,4 +1,4 @@
-# Customer-Shopping-Analysis
+# Overview
 
 https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
@@ -20,9 +20,6 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 8. Which states produce the highest total purchase amount and best review ratings?
 
   
-
-
-
 
 
 # ETL Process 
@@ -103,7 +100,33 @@ Once all transformations were completed, I loaded the cleaned and structured que
 
 
 # Analysis
+...
 
+### 1. What is the most popular Item Category purchased by customers?
+
+In order to understand overall purchase behavior, I used a **PivotTable** to group purchases by Item category, calculating raw counts and percentages. <br>
+Then, I created a combo PivotChart: clustered columns for purchase counts on the primary axis and a line with markers for percentages on the secondary axis. <br> 
+I titled it “Product Purchase Frequency,” labeled the axes, removed gridlines, and switched markers to diamonds. This highlights both volume and relative share clearly.
+
+
+![image](https://github.com/user-attachments/assets/62bd6c2d-ff22-46fa-9ed2-c33d2577850b)
+
+
+***Key Findings***
+1. Clothing leads the market with a 45% share (about 2,000 purchases), indicating it’s the top-selling category.
+
+2. The significant gap between Clothing (45%) and the lower categories such as Footwear (15%) and Outerwear (8%) suggests a strong consumer preference for apparel. 
+
+
+***Insights***
+1. **Implement Resource Allocation Strategy**: The strong consumer preference for Clothing may justify increased inventory and promotional efforts in this category, while also exploring cross-selling opportunities with lower-performing segments.
+
+
+### 2. What is the average Purchase Amount (USD)?
+
+
+
+### 3. Which payment option do customers prefer the most?
 
 
 
