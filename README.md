@@ -104,9 +104,15 @@ Once all transformations were completed, I loaded the cleaned and structured que
 
 ### 1. What is the most popular Item Category purchased by customers?
 
-In order to understand overall purchase behavior, I used a **PivotTable** to group purchases by Item category, calculating raw counts and percentages. <br>
-Then, I created a combo PivotChart: clustered columns for purchase counts on the primary axis and a line with markers for percentages on the secondary axis. <br> 
-I titled it “Product Purchase Frequency,” labeled the axes, removed gridlines, and switched markers to diamonds. This highlights both volume and relative share clearly.
+To understand overall purchase behavior, I followed these steps:
+- Data Organization:  
+  - Used a **PivotTable** to group purchases by Item category, calculating raw counts and percentages.
+
+- Visualization:  
+  - Created a combo PivotChart with clustered columns for purchase counts on the primary axis and a line with markers for percentages on the secondary axis.
+
+- Customization:  
+  - Titled the chart “Product Purchase Frequency,” labeled the axes, removed gridlines, and changed the markers to diamonds.
 
 
 ![image](https://github.com/user-attachments/assets/62bd6c2d-ff22-46fa-9ed2-c33d2577850b)
@@ -123,13 +129,37 @@ I titled it “Product Purchase Frequency,” labeled the axes, removed gridline
 
 
 ### 2. What is the average Purchase Amount (USD)?
+I implemented PivotTable in order to find the averae purchase amount of shopping items. I put Purchase Amount (USD) column into Values and change average in the value filed setting. 
+
+![image](https://github.com/user-attachments/assets/56d58e97-e311-4834-9000-d27aa3e648e4)
+
+***Key Findings***
+1. Clothing leads the market with a 45% share (about 2,000 purchases), indicating it’s the top-selling category.
+
+2. The significant gap between Clothing (45%) and the lower categories such as Footwear (15%) and Outerwear (8%) suggests a strong consumer preference for apparel. 
 
 
+***Insights***
+1. **Implement Resource Allocation Strategy**: The strong consumer preference for Clothing may justify increased inventory and promotional efforts in this category, while also exploring cross-selling opportunities with lower-performing segments.
 
 ### 3. Which payment option do customers prefer the most?
 
+To assess the distribution of payment methods, I followed these steps:
+- Data Organization:  
+  Grouped transactions by Payment Method using a PivotTable to compute total counts and percentages.
 
+- Visualization:  
+  Created a combo PivotChart with clustered columns for Payment Count on the primary axis and a line with markers for % of Payment on the secondary axis.
 
+- Customization:  
+  Named the chart “Frequency of Payment,” added axis labels, removed gridlines, and changed markers to diamonds.
 
+***Key Findings***
+1. PayPal is the most popular payment method with 677 transactions, indicating its strong presence in the shopping behavior.
+2. The proportions of transactions are relatively similar, suggesting no overwhelming customer preference for any single alternative.
+      
+
+***Insights***
+1. Since no method overwhelmingly dominates, there’s a chance to enhance user experience across all payment types by simplifying checkout processes, introducing loyalty programs, or reducing fees could further boost overall adoption.
 
 
