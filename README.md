@@ -134,13 +134,11 @@ I implemented PivotTable in order to find the averae purchase amount of shopping
 ![image](https://github.com/user-attachments/assets/56d58e97-e311-4834-9000-d27aa3e648e4)
 
 ***Key Findings***
-1. Clothing leads the market with a 45% share (about 2,000 purchases), indicating it’s the top-selling category.
-
-2. The significant gap between Clothing (45%) and the lower categories such as Footwear (15%) and Outerwear (8%) suggests a strong consumer preference for apparel. 
-
+1. At $59.76 per purchase, customers typically spend around $60 each time they buy.
 
 ***Insights***
-1. **Implement Resource Allocation Strategy**: The strong consumer preference for Clothing may justify increased inventory and promotional efforts in this category, while also exploring cross-selling opportunities with lower-performing segments.
+1. Compared to the US benchmark from [CEIC Data](https://www.ceicdata.com/en/united-states/ecommerce-transactions-by-category/ecommerce-transactions-average-order-value-aov)
+—where the average order value is around $159 (March 2025)—our AOV of $59 is significantly lower. This indicates an opportunity to boost order values through strategies like upselling, cross-selling, or bundling products.
 
 ### 3. Which payment option do customers prefer the most?
 
@@ -153,6 +151,9 @@ To assess the distribution of payment methods, I followed these steps:
 
 - Customization:  
   Named the chart “Frequency of Payment,” added axis labels, removed gridlines, and changed markers to diamonds.
+
+  ![image](https://github.com/user-attachments/assets/676436f8-c927-4fce-b1d2-2aca61dc4134)
+
 
 ***Key Findings***
 1. PayPal is the most popular payment method with 677 transactions, indicating its strong presence in the shopping behavior.
