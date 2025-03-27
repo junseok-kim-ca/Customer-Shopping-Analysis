@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 
 * KPI
-4. What is our total revenue segmented by customer demographics, and season?
+4. What is the total revenue segmented by customer demographics, and season?
 5. Which item category drives the most revenue in each State?
   
 
@@ -52,8 +52,8 @@ This column segments customers into age brackets to analyze **purchasing trends*
 ##### M Language Formula:  
 ```M
 = if [Age] >= 0 and [Age] <= 12 then "Child"
-  else if [Age] >= 13 and [Age] <= 18 then "Teenager"
-  else if [Age] >= 19 and [Age] <= 30 then "Young Adult"
+  else if [Age] >= 13 and [Age] <= 17 then "Teenager"
+  else if [Age] >= 18 and [Age] <= 30 then "Young Adult"
   else if [Age] >= 31 and [Age] <= 45 then "Adult"
   else if [Age] >= 46 and [Age] <= 64 then "Middle Aged"
   else "Senior"
@@ -152,7 +152,8 @@ To assess the distribution of payment methods, I followed these steps:
 - Customization:  
   Named the chart “Frequency of Payment,” added axis labels, removed gridlines, and changed markers to diamonds.
 
-  ![image](https://github.com/user-attachments/assets/676436f8-c927-4fce-b1d2-2aca61dc4134)
+![image](https://github.com/user-attachments/assets/030a7314-a196-41e4-a6a1-ecbf1ac0e79f)
+
 
 
 ***Key Findings***
@@ -163,4 +164,14 @@ To assess the distribution of payment methods, I followed these steps:
 ***Insights***
 1. Since no method overwhelmingly dominates, there’s a chance to enhance user experience across all payment types by simplifying checkout processes, introducing loyalty programs, or reducing fees could further boost overall adoption.
 
+
+### 4. What is the total revenue segmented by customer demographics, and season?
+
+Customer demographics refer to classifications of consumer groups that businesses use for strategic purposes, such as targeted marketing and product development. In this dataset, the primary demographic variables are `Age Group` and `Gender`.
+
+### 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
+
+### 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
+
+### 7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
 
