@@ -184,10 +184,10 @@ Customer demographics refer to classifications of consumer groups that businesse
 1. **Middle-Aged Males as a Core Revenue Driver**:
 With the highest spending ($57,726) within the most profitable age group, Middle-Aged Males stand out as a crucial demographic. Tailored product lines or targeted marketing could further boost revenue from this segment.
 
-3. **Seasonal Variations Demand Tailored Promotions**:
+2. **Seasonal Variations Demand Tailored Promotions**:
 Each age group peaks in a different season (e.g., Young Adult in Winter, Senior in Spring), suggesting that season-specific promotions or campaigns might be more effective than a one-size-fits-all approach.
 
-5. **Opportunities to Engage Female Customers**:
+3. **Opportunities to Engage Female Customers**:
 Males outspend females across all age groups. Investigating why female spending is lower—whether due to product offerings, marketing messages, or other factors—could reveal potential strategies to increase sales.
 
 
@@ -263,7 +263,9 @@ There are still unexplored benefits in offering premium shipping options. Provid
 
 
 
-### 7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
+### 7. Does Subscription Status influence customers' purchasing behavior and loyalty patterns?
+
+
 
 ***Key Findings***
 1. 
