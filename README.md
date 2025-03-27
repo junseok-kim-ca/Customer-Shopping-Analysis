@@ -11,13 +11,12 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 * KPI
 4. What is the total revenue segmented by customer demographics, and season?
-5. Which item category drives the most revenue in each State?
-  
 
-* Correlation Question & Hard Questions 
-6. How do customer demographics influence payment preferences and buying frequency?
+5. Which states contribute the highest total revenue, and how do these trends vary by item category?
+
+6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
+
 7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
-8. Which states produce the highest total purchase amount and best review ratings?
 
   
 
@@ -171,11 +170,38 @@ Customer demographics refer to classifications of consumer groups that businesse
 
 ![image](https://github.com/user-attachments/assets/076450e1-ad3f-42fb-bdd2-f0db1534bf1e)
 
+***Key Findings***
+1. 
+      
+
+***Insights***
+1. 
 
 
 ### 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
 
+***Key Findings***
+1. 
+      
+
+***Insights***
+1. 
+
 ### 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
 
+***Key Findings***
+1. 
+      
+
+***Insights***
+1. 
+
 ### 7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
+
+***Key Findings***
+1. 
+      
+
+***Insights***
+1. 
 
