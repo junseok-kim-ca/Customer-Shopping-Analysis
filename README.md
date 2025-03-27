@@ -4,22 +4,25 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 # Questions 
 
+**Target Audience:**  
+These questions are tailored for **marketing professionals, business analysts, and e-commerce strategists**, especially those working in the retail and fashion industries in the United States. Whether you're part of a large fashion retail chain or a boutique label, these questions are designed to help the businesses:
+
+- **Understand Customer Behavior:** Discover which product categories resonate most with your audience and how customer preferences shift over time.
+- **Optimize Revenue:** Analyze purchasing patterns such as the average order value and preferred payment methods to identify opportunities for various marketing tactics.
+- **Segment and Target:** Break down revenue and purchasing trends by customer demographics, season, and geographic regions to refine your marketing campaigns.
+- **Enhance Customer Satisfaction:** Evaluate how different factors, like shipping types, influence customer review ratings and overall satisfaction.
+
+By addressing these questions, businesses can build a data-driven strategy that not only enhances marketing tactics but also improves the overall customer experience. 
+
 1. What is the most popular Item Category purchased by customers?
 2. What is the average Purchase Amount (USD)?
 3. Which payment option do customers prefer the most?
-
-
-* KPI
 4. What is the total revenue segmented by customer demographics, and season?
-
 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
-
 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
-
 7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
 
   
-
 
 # ETL Process 
 The ETL (Extract, Transform, Load) process is a structured approach used in data integration to ensure that data is clean, consistent, and ready for analysis. Using Power Query, I performed the following steps:
@@ -171,7 +174,16 @@ Customer demographics refer to classifications of consumer groups that businesse
 ![image](https://github.com/user-attachments/assets/076450e1-ad3f-42fb-bdd2-f0db1534bf1e)
 
 ***Key Findings***
-1. 
+1. Middle-aged customers generate the highest total revenue ($85,381), well above other age groups.  
+
+2. In every age group, males consistently outspend females by roughly 2x or more 
+
+3. Fall shows the highest overall revenue ($60,018), with Spring ($58,679) and Winter ($58,607) close behind. Summer is slightly lower at $55,777.
+
+4. Age-Specific Seasonal Peaks:  
+   - *Young Adult & Adult*: Winter is the highest-grossing season.  
+   - *Middle Aged*: Fall slightly leads Summer and Spring.  
+   - *Senior*: Spring is the top season, though total revenue remains relatively low compared to other groups.
       
 
 ***Insights***
