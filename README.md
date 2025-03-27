@@ -4,7 +4,7 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 # Questions 
 
-**Target Audience:**  
+### Target Audience:  
 These questions are tailored for **marketing professionals, business analysts, and e-commerce strategists**, especially those working in the retail and fashion industries in the United States. Whether you're part of a large fashion retail chain or a boutique label, these questions are designed to help the businesses:
 
 - **Understand Customer Behavior:** Discover which product categories resonate most with your audience and how customer preferences shift over time.
