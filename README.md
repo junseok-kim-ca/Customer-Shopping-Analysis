@@ -238,11 +238,30 @@ Strong clothing sales in **Montana (2.65%) and California (2.63%)** contrast sha
 ### 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
 
 ***Key Findings***
-1. 
-      
+1. Standard Shipping achieves the highest percentage of Satisfied customers (45.41%) and also has the lowest level of Dissatisfaction (15.60%).
+
+2. Store Pickup has notably the highest percentage of Dissatisfied customers (21.23%), significantly above all other shipping methods.
+
+3. While premium services like Express (40.71% satisfied) and Next Day Air (40.12% satisfied) show relatively balanced performance, their percentage of Very Satisfied customers remains low (under 2%).
+
+4. Free Shipping has the highest percentage of Acceptable ratings (43.85%), suggesting customers often have neutral or average experiences.
+
 
 ***Insights***
-1. 
+
+1. **Promoting Reliable Standard Shipping Could Boost Brand Reputation**:  
+Given its proven reliability, actively highlighting Standard Shipping in promotional campaigns and customer communications could strengthen overall brand image and attract more customers.
+
+2. **Improving Store Pickup Experience Could Increase Customer Retention**:  
+Enhancing the store pickup process such as reducing wait times, better stock management, or improving customer service can directly address high dissatisfaction rates and build customer loyalty.
+
+3. **Elevating Free Shipping Experiences Presents Competitive Advantage**:  
+Since Free Shipping currently delivers mostly average satisfaction, introducing minor enhancements like improved tracking, clearer communication, or slightly faster service could significantly differentiate the company from competitors.
+
+4. **Premium Delivery Enhancements Offer Upsell Opportunities**:  
+There are still unexplored benefits in offering premium shipping options. Providing additional value—like personalized delivery notifications, priority handling, or superior packaging—could elevate satisfaction, justify higher fees, and encourage customers to upgrade shipping services.
+
+
 
 ### 7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
 
