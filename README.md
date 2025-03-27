@@ -169,6 +169,10 @@ To assess the distribution of payment methods, I followed these steps:
 
 Customer demographics refer to classifications of consumer groups that businesses use for strategic purposes, such as targeted marketing and product development. In this dataset, the primary demographic variables are `Age Group` and `Gender`.
 
+![image](https://github.com/user-attachments/assets/076450e1-ad3f-42fb-bdd2-f0db1534bf1e)
+
+
+
 ### 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
 
 ### 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
