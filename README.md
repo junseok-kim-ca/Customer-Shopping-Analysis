@@ -4,24 +4,18 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 # Questions 
 
-### Target Audience:  
-These questions are tailored for **marketing professionals, business analysts, and e-commerce strategists**, especially those working in the retail and fashion industries in the United States. Whether you're part of a large fashion retail chain or a boutique label, these questions are designed to help the businesses:
+### Target Audience  
+These questions are tailored for **marketing professionals, business analysts, and e-commerce strategists**, especially those working in the retail and fashion industries in the United States.
 
-- **Understand Customer Behavior:** Discover which product categories resonate most with your audience and how customer preferences shift over time.
-- **Optimize Revenue:** Analyze purchasing patterns such as the average order value and preferred payment methods to identify opportunities for various marketing tactics.
-- **Segment and Target:** Break down revenue and purchasing trends by customer demographics, season, and geographic regions to refine your marketing campaigns.
-- **Enhance Customer Satisfaction:** Evaluate how different factors, like shipping types, influence customer review ratings and overall satisfaction.
-
-By addressing these questions, businesses can build a data-driven strategy that not only enhances marketing tactics but also improves the overall customer experience. 
+By addressing these questions, businesses can build a data-driven strategy that not only enhances marketing tactics but also improves the overall customer experience.
 
 1. What is the most popular Item Category purchased by customers?
 2. What is the average Purchase Amount (USD)?
 3. Which payment option do customers prefer the most?
-4. What is the total revenue segmented by customer demographics, and season?
+4. What is the total revenue segmented by customer demographics and season?
 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
-7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchases patterns compared to non-subscribers?
-
+7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchase patterns compared to non-subscribers?
   
 
 # ETL Process 
@@ -181,23 +175,65 @@ Customer demographics refer to classifications of consumer groups that businesse
 3. Fall shows the highest overall revenue ($60,018), with Spring ($58,679) and Winter ($58,607) close behind. Summer is slightly lower at $55,777.
 
 4. Age-Specific Seasonal Peaks:  
-   - *Young Adult & Adult*: Winter is the highest-grossing season.  
-   - *Middle Aged*: Fall slightly leads Summer and Spring.  
-   - *Senior*: Spring is the top season, though total revenue remains relatively low compared to other groups.
+   - ***Young Adult & Adult***: Winter is the highest-grossing season.  
+   - ***Middle Aged***: Fall slightly leads Summer and Spring.  
+   - ***Senior***: Spring is the top season, though total revenue remains relatively low compared to other groups.
       
 
 ***Insights***
-1. 
+1. **Middle-Aged Males as a Core Revenue Driver**:
+With the highest spending ($57,726) within the most profitable age group, Middle-Aged Males stand out as a crucial demographic. Tailored product lines or targeted marketing could further boost revenue from this segment.
+
+3. **Seasonal Variations Demand Tailored Promotions**:
+Each age group peaks in a different season (e.g., Young Adult in Winter, Senior in Spring), suggesting that season-specific promotions or campaigns might be more effective than a one-size-fits-all approach.
+
+5. **Opportunities to Engage Female Customers**:
+Males outspend females across all age groups. Investigating why female spending is lower—whether due to product offerings, marketing messages, or other factors—could reveal potential strategies to increase sales.
 
 
 ### 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
 
+
+
+
+
 ***Key Findings***
-1. 
-      
+1. **Overall Revenue (All categories):**
+- ***Top States***: Montana (MT), Illinois (IL), California (CA), Idaho (ID), and Nevada (NV) contribute the highest total revenues, each above **2.3%** of overall revenue.
+- ***Lowest Revenue State***: Kansas (KS) generates the least revenue, contributing just **1.47%** of total.
+
+2. **Accessories:**
+- ***Top States***: Nebraska (NE), Nevada (NV), Mississippi (MS), West Virginia (WV), and Kentucky (KY) have the highest revenue percentages, indicating these states prefer accessory products significantly.
+- ***Lowest State***: Maine (ME) has the lowest accessory revenue contribution (**1.25%**).
+
+3. **Clothing:**
+- ***Top States***: Montana (MT) and California (CA) generate the highest revenue percentages, indicating a strong preference for clothing items.
+- ***Lowest State***: New Jersey (NJ) has the lowest clothing revenue share (**1.25%**).
+
+4. **Footwear:**
+- ***Strongest Preference***: Ohio (OH) leads significantly in footwear (**3.66%**), highlighting a strong local demand.
+- ***Least Interest***: Kentucky (KY) shows minimal interest (**0.62%**), the lowest footwear contribution.
+
+5. **Outerwear:**
+- ***Top Performer***: North Dakota (ND) generates the highest outerwear revenue share (**4.90%**), which might indicate high seasonal demand due to climate.
+- ***Lowest Contributor***: Georgia (GA) has the lowest outerwear share (**0.50%**), implying limited local interest or need.
+
+
 
 ***Insights***
-1. 
+1. **Climate Drives Outerwear Revenue**:  
+With **North Dakota (4.90%)** significantly leading outerwear sales, regional climates clearly influence purchasing behavior. Tailoring outerwear collections and promotional campaigns specifically for colder states could maximize sales and customer satisfaction.
+
+2. **Localized Footwear Preferences Present Opportunities**:  
+**Ohio (3.66%)** shows a strong preference for footwear, whereas **Kentucky (0.62%)** remains notably low. Investigating local style preferences, competition, and introducing targeted footwear lines could boost performance in underperforming states.
+
+3. **Accessories as Key Cross-Selling Opportunities**:  
+States such as **Nebraska (2.89%) and Nevada (2.87%)** lead accessory sales, signaling their potential as impulse or complementary purchases. Leveraging bundled deals or strategic in-store and online placements can enhance average order value.
+
+4. **Clothing Demand Varies by Region, Necessitating Targeted Strategies**:  
+Strong clothing sales in **Montana (2.65%) and California (2.63%)** contrast sharply with **New Jersey’s low performance (1.25%)**. Understanding regional fashion preferences and implementing tailored marketing and merchandising strategies could optimize apparel revenue across diverse markets.
+
+
 
 ### 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
 
