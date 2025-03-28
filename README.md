@@ -1,7 +1,5 @@
-https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
-
 # Overview 
-Welcome to my analysis of customer shopping trends in the U.S. retail and fashion industry. This project uncovers key patterns in consumer behavior, revenue generation, and demographic preferences by analyzing rich transactional data using `Excel Power Query`, `PivotTables/Charts`, and `Slicer`s. 
+Welcome to my analysis of customer shopping trends in the U.S. retail and fashion industry. This project uncovers key patterns in consumer behavior, revenue generation, and demographic preferences by analyzing rich transactional data using `Excel Power Query`, `PivotTables/Charts`, and `Slicers`. 
 
 By exploring metrics such as item popularity, average purchase amounts, regional sales trends, seasonal revenue shifts, and the impact of shipping methods and subscription status, this analysis provides actionable insights to drive targeted marketing, inventory planning, and customer experience improvements.
 
