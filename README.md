@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2caf9d5c-43dd-4582-8c78-7b602f9c0535)
-
 https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
 # Overview 
@@ -244,9 +242,12 @@ Understanding regional performance is vital for tailoring marketing strategies a
 
 ***Map Chart***
 
+![image](https://github.com/user-attachments/assets/e211906b-7e43-469a-9fd4-92d3156b88c0)
 
 
 ***Slicer***
+
+![image](https://github.com/user-attachments/assets/d17b8cfc-7d25-4b1a-9a63-49ece40baf1c)
 
 
 ***Key Findings***
@@ -293,9 +294,12 @@ To explore the impact of delivery methods on customer satisfaction, I grouped re
 
 ***PivotTable***
 
+![image](https://github.com/user-attachments/assets/e5ea2c1a-ff3a-4386-bcbf-0982b103071a)
+
+
 ***PivotChart***
 
-***Slicer***
+![image](https://github.com/user-attachments/assets/4cf82d73-7d79-46d5-ae4e-995916c0a6fb)
 
 
 ***Key Findings***
@@ -330,9 +334,13 @@ To understand customer purchasing and loyalty patterns, I analyzed the data usin
 
 ***PivotTable***
 
+![image](https://github.com/user-attachments/assets/0ac55412-7b7d-4a88-93e3-ecd7c66d2c9c)
+
+
 ***PivotChart***
 
-***Slicer***
+![image](https://github.com/user-attachments/assets/f510cda8-5743-41eb-a364-863bb621ba88)
+
 
 
 ***Key Findings***
