@@ -235,6 +235,14 @@ Males outspend females across all age groups. Investigating why female spending 
 
 
 ### 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
+Understanding regional performance is vital for tailoring marketing strategies and optimizing product distribution. In this analysis, I segmented total revenue by `State` and further broke it down by `Item Category` to uncover geographic trends and consumer preferences.
+
+***PivotTable***
+
+
+***PivotChart***
+
+***Slicer***
 
 
 ***Key Findings***
@@ -277,6 +285,15 @@ Strong clothing sales in **Montana (2.65%) and California (2.63%)** contrast sha
 
 ### 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
 
+To explore the impact of delivery methods on customer satisfaction, I grouped review ratings by Shipping Type. This approach enabled me to calculate the percentage distribution of each review category for every shipping option, providing insights into how delivery performance correlates with customer sentiment.
+
+***PivotTable***
+
+***PivotChart***
+
+***Slicer***
+
+
 ***Key Findings***
 1. Standard Shipping achieves the highest percentage of Satisfied customers (45.41%) and also has the lowest level of Dissatisfaction (15.60%).
 
@@ -305,7 +322,13 @@ There are still unexplored benefits in offering premium shipping options. Provid
 
 ### 7. Does Subscription Status influence customers' purchasing behavior and loyalty patterns?
 
-In order to figure out customer's purchasing and loyalty patterns, I'm going to use the columns: Previous Purchased, and Frequency of Purchases. 
+To understand customer purchasing and loyalty patterns, I analyzed the data using the columns `Previous Purchases` and `Frequency of Purchases`. This approach allowed me to compare how subscribers and non-subscribers differ in their repeat buying behavior across various purchase frequencies.
+
+***PivotTable***
+
+***PivotChart***
+
+***Slicer***
 
 
 ***Key Findings***
@@ -330,6 +353,9 @@ With the highest average previous purchases (27.1), this segment represents a hi
 3. **Quarterly Buyers May Favor a Non-Commitment Shopping Style**:  
 Since non-subscribers in the quarterly group show higher loyalty, it indicates a preference for flexibility over long-term commitments. Providing occasional benefits—like limited-time offers or optional loyalty perks—without requiring full subscription enrollment could better align with their shopping behavior.
 
+
+
+***수정***
 
 # What I learned
 Throughout this project, I significantly enhanced my SQL skills and developed a deeper understanding of data analysis for business insights. Here's how:
