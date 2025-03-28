@@ -11,19 +11,19 @@ The dataset used for this project is sourced from **[Kaggle](https://www.kaggle.
 
 It includes detailed information on:
 
-Customer Demographics 👥
+- Customer Demographics 
 Age, gender, and subscription status, allowing for segmentation and analysis of purchasing patterns across different consumer groups.
 
-Shopping Behavior 🛒
+- Shopping Behavior 
 Data on item categories (e.g., Clothing, Accessories, Footwear), purchase frequency, previous purchases, and shipping types—essential for uncovering loyalty patterns and product preferences.
 
-Transaction Details 💳
+- Transaction Details 
 Purchase amounts in USD, payment options used (e.g., PayPal, Debit, Credit), and seasonal indicators to support revenue analysis, AOV trends, and campaign planning.
 
-Delivery & Satisfaction 📦⭐
+- Delivery & Satisfaction 
 Shipping methods and review ratings help explore the relationship between delivery performance and customer satisfaction.
 
-Location Data 📍
+- Location Data 
 U.S. state information to conduct geographic revenue analysis and identify region-specific trends.
 
 
