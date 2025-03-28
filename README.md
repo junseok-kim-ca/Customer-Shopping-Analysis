@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2caf9d5c-43dd-4582-8c78-7b602f9c0535)
 
 https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
@@ -237,10 +237,14 @@ Males outspend females across all age groups. Investigating why female spending 
 ### 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
 Understanding regional performance is vital for tailoring marketing strategies and optimizing product distribution. In this analysis, I segmented total revenue by `State` and further broke it down by `Item Category` to uncover geographic trends and consumer preferences.
 
-***PivotTable***
+***Table (From PivotTable)***
+
+![image](https://github.com/user-attachments/assets/77f8ed3d-deb3-43a0-b5dc-2bea41e7b0e1)
 
 
-***PivotChart***
+***Map Chart***
+
+
 
 ***Slicer***
 
@@ -355,7 +359,7 @@ Since non-subscribers in the quarterly group show higher loyalty, it indicates a
 
 
 
-***수정***
+# ***수정***
 
 # What I learned
 Throughout this project, I significantly enhanced my SQL skills and developed a deeper understanding of data analysis for business insights. Here's how:
