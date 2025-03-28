@@ -58,8 +58,6 @@ The first step involved extracting data from `customer_shopping_trends.xlsx` int
 ![image](https://github.com/user-attachments/assets/7c5dbfd0-2cf7-4a5e-b4fe-84f3269ccf24)
 
 
----
-
 ## 2. Transform  
 Once the data was extracted, I applied multiple transformations in Power Query to clean, standardize, and enhance the dataset, ensuring data accuracy and usability. 
 
@@ -148,13 +146,13 @@ To determine the most popular item category, I used a **PivotTable** and **Pivot
 
 
 ***Key Findings***
-1. Clothing leads the market with a 45% share (about 2,000 purchases), indicating it’s the top-selling category.
+1. **Clothing** leads the market with a **45% share** (about 2,000 purchases), indicating it’s the top-selling category.
 
-2. The significant gap between Clothing (45%) and the lower categories such as Footwear (15%) and Outerwear (8%) suggests a strong consumer preference for apparel. 
+2. The significant gap between **Clothing (45%)** and the lower categories such as **Footwear (15%)** and **Outerwear (8%)** suggests a strong consumer preference for apparel. 
 
 
 ***Insights***
-1. **Implement Resource Allocation Strategy**: The strong consumer preference for Clothing may justify increased inventory and promotional efforts in this category, while also exploring cross-selling opportunities with lower-performing segments.
+1. **Implement Resource Allocation Strategy**: The strong consumer preference for **Clothing** may justify increased inventory and promotional efforts in this category, while also exploring **cross-selling opportunities** with lower-performing segments.
 
 
 ### 2. What is the average Purchase Amount (USD)?
@@ -166,11 +164,12 @@ To calculate the average amount customers spend per purchase, I used a **PivotTa
 
 
 ***Key Findings***
-1. At $59.76 per purchase, customers typically spend around $60 each time they buy.
+1. At **$59.76** per purchase, customers typically spend around $60 each time they buy.
 
 ***Insights***
 1. Compared to the US benchmark from [CEIC Data](https://www.ceicdata.com/en/united-states/ecommerce-transactions-by-category/ecommerce-transactions-average-order-value-aov)
-—where the average order value is around $159 (March 2025)—our AOV of $59 is significantly lower. This indicates an opportunity to boost order values through strategies like upselling, cross-selling, or bundling products.
+where the average order value is around $159 (March 2025) our AOV of $59 is significantly lower. This indicates an opportunity to boost order values through strategies like **upselling, cross-selling, or bundling products**.
+
 
 ### 3. Which payment option do customers prefer the most?
 To identify the most popular payment method, I used a **PivotTable** and **PivotChart** to aggregate transaction counts by payment option. This allowed me to quickly see which payment methods are most frequently used by customers.
@@ -188,12 +187,12 @@ To identify the most popular payment method, I used a **PivotTable** and **Pivot
 
 
 ***Key Findings***
-1. PayPal is the most popular payment method with 677 transactions, indicating its strong presence in the shopping behavior.
-2. The proportions of transactions are relatively similar, suggesting no overwhelming customer preference for any single alternative.
+1. **PayPal** is the most popular payment method with 677 transactions, indicating its strong presence in the shopping behavior.
+2. The proportions of transactions are relatively similar, suggesting **no overwhelming customer preference** for any single alternative.
       
 
 ***Insights***
-1. Since no method overwhelmingly dominates, there’s a chance to enhance user experience across all payment types by simplifying checkout processes, introducing loyalty programs, or reducing fees could further boost overall adoption.
+1. Since no method overwhelmingly dominates, there’s a chance to **enhance user experience** across all payment types by simplifying checkout processes, introducing **loyalty programs**, or **reducing fees** could further boost overall adoption.
 
 
 ### 4. What is the total revenue segmented by customer demographics, and season?
@@ -218,31 +217,32 @@ Customer demographics serve as essential classifications for targeted marketing 
 
 
 ***Key Findings***
-1. Middle-aged customers generate the highest total revenue ($85,381), well above other age groups.  
+1. **Middle-aged customers** generate the **highest total revenue ($85,381)**, well above other age groups.  
 
-2. In every age group, males consistently outspend females by roughly 2x or more 
+2. In every age group, **males** consistently outspend females by **roughly 2x or more** 
 
-3. Fall shows the highest overall revenue ($60,018), with Spring ($58,679) and Winter ($58,607) close behind. Summer is slightly lower at $55,777.
+3. **Fall** shows the **highest overall revenue ($60,018)**, with Spring ($58,679) and Winter ($58,607) close behind. **Summer** is slightly **lower at $55,777**.
 
 4. Age-Specific Seasonal Peaks:  
-   - ***Young Adult & Adult***: Winter is the highest-grossing season.  
-   - ***Middle Aged***: Fall slightly leads Summer and Spring.  
-   - ***Senior***: Spring is the top season, though total revenue remains relatively low compared to other groups.
+   - ***Young Adult & Adult***: **Winter** is the highest-grossing season.  
+   - ***Middle Aged***: **Fall** slightly leads Summer and Spring.  
+   - ***Senior***: **Spring** is the top season, though total revenue remains relatively low compared to other groups.
       
 
 ***Insights***
 1. **Middle-Aged Males as a Core Revenue Driver**:
-With the highest spending ($57,726) within the most profitable age group, Middle-Aged Males stand out as a crucial demographic. Tailored product lines or targeted marketing could further boost revenue from this segment.
+With the highest spending ($57,726) within the most profitable age group, **Middle-Aged Males** stand out as a crucial demographic. **Tailored product lines** or **targeted marketing** could further boost revenue from this segment.
 
 2. **Seasonal Variations Demand Tailored Promotions**:
-Each age group peaks in a different season (e.g., Young Adult in Winter, Senior in Spring), suggesting that season-specific promotions or campaigns might be more effective than a one-size-fits-all approach.
+Each age group peaks in a different season (e.g., Young Adult in Winter, Senior in Spring), suggesting that **season-specific promotions** or **campaigns** might be more effective than a one-size-fits-all approach.
 
 3. **Opportunities to Engage Female Customers**:
-Males outspend females across all age groups. Investigating why female spending is lower—whether due to product offerings, marketing messages, or other factors—could reveal potential strategies to increase sales.
+Males outspend females across all age groups. Investigating **female spending is lower**, whether due to product offerings, marketing messages, or other factors—could reveal potential strategies to increase sales.
+
 
 
 ### 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
-Understanding regional performance is vital for tailoring marketing strategies and optimizing product distribution. In this analysis, I segmented total revenue by `State` and further broke it down by `Item Category` to uncover geographic trends and consumer preferences.
+Understanding regional performance is vital for tailoring marketing strategies and optimizing product distribution. In this analysis, I segmented total revenue by `State` and further broke it down by `Item Category` to uncover **geographic trends** and **consumer preferences**.
 
 ***Table (From PivotTable)***
 
