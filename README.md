@@ -265,6 +265,7 @@ There are still unexplored benefits in offering premium shipping options. Provid
 
 ### 7. Does Subscription Status influence customers' purchasing behavior and loyalty patterns?
 
+In order to figure out customer's purchasing and loyalty patterns, I'm going to use the columns: Previous Purchased, and Frequency of Purchases. 
 
 
 ***Key Findings***
