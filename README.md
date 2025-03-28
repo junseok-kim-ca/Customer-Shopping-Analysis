@@ -47,8 +47,7 @@ By addressing these questions, businesses can build a data-driven strategy that 
 4. What is the total revenue segmented by customer demographics and season?
 5. Which states contribute the highest total revenue, and how do these trends vary by item category?
 6. Do different Shipping Types influence the review ratings? What can this reveal about delivery performance and customer satisfaction?
-7. Which subscription status group yields the highest purchase amount, and do they exhibit different frequency of purchases or previous purchase patterns compared to non-subscribers?
-  
+7. Does Subscription Status influence customers' purchasing behavior and loyalty patterns?
 
 # ETL Process 
 The ETL (Extract, Transform, Load) process is a structured approach used in data integration to ensure that data is clean, consistent, and ready for analysis. Using Power Query, I performed the following steps:
