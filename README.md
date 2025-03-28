@@ -370,8 +370,8 @@ Since non-subscribers in the quarterly group show higher loyalty, it indicates a
 
 # What I learned
 
-1. **Data Preparation (ETL Process)**:
-Using an ETL (Extract, Transform, Load) approach in Power Query, I transformed raw data into a clean, analysis-ready dataset. This included extracting data from Excel, applying transformations such as removing duplicates, fixing data types, and enriching the dataset with custom fields like Age Group, Review Rating Category, and State Code. These steps enabled deeper segmentation and ensured high data quality for accurate insights.
+1. **ETL Workflow: Data Extraction, Transformation & Loading**:
+Using an ETL approach in Power Query, I transformed raw data into a clean, analysis-ready dataset. This included extracting data from Excel, applying transformations such as removing duplicates, fixing data types, and enriching the dataset with custom fields like Age Group, Review Rating Category, and State Code. These steps enabled deeper segmentation and ensured high data quality for accurate insights.
 
 2. **Insight-Driven Analysis Unlocks Business Value**: 
 Using PivotTables, PivotCharts, and Slicers, I visualized key patterns in customer behavior, regional trends, and operational performance. These visual tools made complex data easier to interpret and revealed insights that informed product strategies, targeted marketing, and service improvements.
