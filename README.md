@@ -26,6 +26,13 @@ Shipping methods and review ratings help explore the relationship between delive
 - Location Data 
 U.S. state information to conduct geographic revenue analysis and identify region-specific trends.
 
+# Tools & Skills   
+To ensure effective and insightful analysis, I utilized the following tools alongside key data analysis skills:
+
+1. **Excel 365**: Served as the primary platform for data handling, analysis, and visualization.
+2. **Power Query**: Used for performing the ETL process—importing, cleaning, and transforming raw data into an analysis-ready format.
+3. **PivotTables & PivotCharts**: Enabled dynamic summarization and visualization of key trends across customer behavior and sales performance.
+4. **Slicers**: Provided interactive filtering for deeper exploration of data by dimensions such as Season, Age Group, and Subscription Status.
 
 # Questions To Analyze
 
