@@ -207,7 +207,8 @@ Customer demographics serve as essential classifications for targeted marketing 
 
 ***PivotChart***
 
-![image](https://github.com/user-attachments/assets/8fe2a434-0872-436e-bc73-95a3e54d2d6c)
+![image](https://github.com/user-attachments/assets/03a8bac2-42c1-4121-8caa-fe92f491f573)
+
 
 
 ***Slicer***
