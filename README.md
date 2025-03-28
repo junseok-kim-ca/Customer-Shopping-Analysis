@@ -3,7 +3,7 @@ Welcome to my analysis of customer shopping trends in the U.S. retail and fashio
 
 By exploring metrics such as item popularity, average purchase amounts, regional sales trends, seasonal revenue shifts, and the impact of shipping methods and subscription status, this analysis provides actionable insights to drive targeted marketing, inventory planning, and customer experience improvements.
 
-🔍 Want to see my full data analysis process using Excel?** Check it out here: [Customer Shopping Trends Excel Project]()
+🔍 Want to see my full data analysis process using Excel?** Check it out here: [Customer Shopping Excel Project](https://github.com/junseok-kim-ca/Customer-Shopping-Analysis/blob/main/1.%20Data%20Analysis/1.%20Shopping%20Trends%20Project.xlsx)
 
 # Customer Shopping Trends Dataset
 
