@@ -374,6 +374,12 @@ With the highest average previous purchases (27.1), this segment represents a hi
 3. **Quarterly Buyers May Favor a Non-Commitment Shopping Style**:  
 Since non-subscribers in the quarterly group show higher loyalty, it indicates a preference for flexibility over long-term commitments. Providing occasional benefits—like limited-time offers or optional loyalty perks—without requiring full subscription enrollment could better align with their shopping behavior.
 
+# Dashboard
+
+![converted_optimized](https://github.com/user-attachments/assets/20478811-61e1-4f12-a283-b2a61e383fb9)
+
+
+
 
 # What I learned
 
