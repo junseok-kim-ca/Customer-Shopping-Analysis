@@ -84,7 +84,8 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 
 
 ### Slicers
-![image](https://github.com/user-attachments/assets/c733597c-e283-4027-94d9-0d953c7ef978)
+![image](https://github.com/user-attachments/assets/2bf8c64b-d1c8-4725-8761-5ac24ea840be)
+
 
 
 
