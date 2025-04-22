@@ -42,6 +42,9 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 
 #### Total Revenue Across Seasons by Demographic Segment - Stacked Bar Chart
 
+![image](https://github.com/user-attachments/assets/92d2771a-6af5-47d4-bd5e-cb20dd44c5df)
+
+
 - Tools & Techniques Used: 
 
 - Visualization Strategy (Why you used Stacked bar chart?) :
@@ -54,6 +57,9 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 
 #### Customer Review Rating Distribution by Shipping Type - Clustered Bar Chart 
 
+![image](https://github.com/user-attachments/assets/4876f28f-b51b-428b-944b-a7f08dd1d4af)
+
+
 - Tools & Techniques Used: 
 
 - Visualization Strategy (Why you used Stacked bar chart?) :
@@ -64,6 +70,10 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 
 
 #### Geographic Distribution of Revenue by Product Type - Map Chart 
+
+![image](https://github.com/user-attachments/assets/e515f62d-d0de-49ca-b18b-9ab26b1a55e1)
+
+
 - Tools & Techniques Used: 
 
 - Visualization Strategy (Why you used Stacked bar chart?) :
@@ -74,6 +84,10 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 
 
 #### Impact of Subscription Status on Customer Loyalty by Purchase Frequency - Clustered Bar Chart
+
+![image](https://github.com/user-attachments/assets/00e9f7ad-e867-4d69-acd6-724eb19ab147)
+
+
 - Tools & Techniques Used: 
 
 - Visualization Strategy (Why you used Stacked bar chart?) :
