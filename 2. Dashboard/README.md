@@ -100,13 +100,18 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 ### Slicers
 ![image](https://github.com/user-attachments/assets/2bf8c64b-d1c8-4725-8761-5ac24ea840be)
 
-
-
-
-- Tools & Techniques Used: 
-
-- Visualization Strategy (Why you used Stacked bar chart?) :
+- Tools & Techniques Used: Used **Excel Slicers** to interactively filter Pivot Charts by:
+  - Gender  
+  - Age Group  
+  - Season  
+  - Item Category  
   
-- Data Structuring Approach:
+- Visualization Strategy: Created **dynamic Pivot Charts** linked to slicers for real-time filtering by demographics, seasons, and product categories. Helped visualize patterns like seasonal trends or demographic preferences
+  
+- Data Structuring Approach: Structured data in a **clean, tabular format** with consistent category labels to support seamless filtering and grouping in slicers and Pivot Tables
   
 - Key Business Takeaways:
+  - Instantly compare metrics (e.g., revenue or loyalty) by season, age group, or item type  
+  - Identify target segments and product trends easily  
+  - Enhances decision-making with interactive, filterable insights
+
