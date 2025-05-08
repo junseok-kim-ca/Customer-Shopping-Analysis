@@ -16,6 +16,7 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 
 
 ### Dashboard File
+My dashboard is in (Shopping_Trends_Project)[https://github.com/junseok-kim-ca/Customer-Shopping-Analysis/tree/main/1.%20Data%20Analysis]
 
 ### Excel Features Applied
 - **PivotCharts & Slicers**: Enabled interactive filtering by gender, age, season, and category to let stakeholders easily explore customer trends across segments.
