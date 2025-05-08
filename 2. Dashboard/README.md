@@ -16,7 +16,8 @@ The dataset includes detailed information on **revenue**, **customer reviews**, 
 
 
 ### Dashboard File
-My dashboard is in (Shopping_Trends_Project)[https://github.com/junseok-kim-ca/Customer-Shopping-Analysis/tree/main/1.%20Data%20Analysis]
+My dashboard is in [Shopping_Trends_Project.xlsx](https://github.com/junseok-kim-ca/Customer-Shopping-Analysis/tree/main/1.%20Data%20Analysis)
+
 
 ### Excel Features Applied
 - **PivotCharts & Slicers**: Enabled interactive filtering by gender, age, season, and category to let stakeholders easily explore customer trends across segments.
@@ -24,6 +25,13 @@ My dashboard is in (Shopping_Trends_Project)[https://github.com/junseok-kim-ca/C
 - **Navigation & Layout Enhancements**: Used **hyperlinked navigation, custom chart layouts, and Name Manager** to streamline usability and maintain consistent formatting.
 
 ### Dataset
+This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data)** dataset simulates U S. retail & fashion purchases, offering a snapshot of online‑and‑offline consumer habits for segmentation, marketing, and revenue analysis.
+
+- Customer Demographics
+- Shopping Behavior
+- Transaction Details
+- Delivery & Satisfaction
+- Geographic Data
 
 ## Dashboard Build
 
