@@ -54,13 +54,13 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 ![image](https://github.com/user-attachments/assets/92d2771a-6af5-47d4-bd5e-cb20dd44c5df)
 
 
-- Tools & Techniques Used: 
+- Tools & Techniques Used: Built a stacked‑bar PivotChart driven by an underlying PivotTable, so the chart auto‑refreshes and resizes whenever new data appears or slicer filters change
 
-- Visualization Strategy (Why you used Stacked bar chart?) :
+- Visualization Strategy: A stacked layout was chosen so every bar shows both total revenue and the seasonal mix for each demographic at a glance.
   
-- Data Structuring Approach:
+- Data Structuring Approach: A pivot table aggregates that data into a Demographic and Season matrix; the chart is connected to this pivot so slicing by Gender, Age Group, or Season instantly refreshes both total revenues and demographic segments.
   
-- Key Business Takeaways:
+- Key Business Takeaways: Senior customers contribute the least (less than $20K total revenue). This under‑penetrated group could respond to age‑appropriate loyalty perks or simplified purchase flows.
 
 
 
@@ -71,7 +71,7 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 
 - Tools & Techniques Used: 
 
-- Visualization Strategy (Why you used Stacked bar chart?) :
+- Visualization Strategy:
   
 - Data Structuring Approach:
   
@@ -85,7 +85,7 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 
 - Tools & Techniques Used: 
 
-- Visualization Strategy (Why you used Stacked bar chart?) :
+- Visualization Strategy:
   
 - Data Structuring Approach:
   
@@ -99,7 +99,7 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 
 - Tools & Techniques Used: 
 
-- Visualization Strategy (Why you used Stacked bar chart?) :
+- Visualization Strategy:
   
 - Data Structuring Approach:
   
