@@ -52,7 +52,7 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 ![image](https://github.com/user-attachments/assets/92d2771a-6af5-47d4-bd5e-cb20dd44c5df)
 
 
-- Tools & Techniques Used: Built a stacked‑bar PivotChart driven by an underlying PivotTable, so the chart auto‑refreshes and resizes whenever new data appears or slicer filters change
+- Tools & Techniques Used: Built a **stacked‑bar PivotChart** driven by an underlying PivotTable, so the chart auto‑refreshes and resizes whenever new data appears or slicer filters change
 
 - Visualization Strategy: A stacked layout was chosen so every bar shows both total revenue and the seasonal mix for each demographic at a glance.
   
@@ -65,9 +65,9 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 ![image](https://github.com/user-attachments/assets/4876f28f-b51b-428b-944b-a7f08dd1d4af)
 
 
-- Tools & Techniques Used: Implemented a clustered-bar PivotChart to effectively display a side-by-side layout, allowing for quick sentiment comparisons across shipping methods, accommodating long labels, and highlighting subtle differences.
+- Tools & Techniques Used: Implemented a **clustered-bar PivotChart** to effectively display a side-by-side layout, allowing for quick sentiment comparisons across shipping methods, accommodating long labels, and highlighting subtle differences.
 
-- Visualization Strategy: A clustered layout isolates each rating category (Very Satisfied → Satisfied → Acceptable → Dissatisfied) side‑by‑side, making it easy to compare sentiment across shipping methods while still seeing the internal mix within each cluster.
+- Visualization Strategy: A clustered layout isolates each rating category (Very Satisfied → Satisfied → Acceptable → Dissatisfied) side‑by‑side, making it easy to compare sentiment across shipping methods 
   
 - Key Business Takeaways: Very‑Satisfied ratings are scarce (< 3 % across the board), indicating that while most customers deem the service "okay," very few are genuinely delighted. A "surprise‑and‑delight initiative" (e.g., proactive delivery updates or small unboxing perks) could move the needle.
 
@@ -77,11 +77,11 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 ![image](https://github.com/user-attachments/assets/e515f62d-d0de-49ca-b18b-9ab26b1a55e1)
 
 
-- Tools & Techniques Used: 
+- Tools & Techniques Used: Inserted a filled Map chart fed by an intermediate table that uses **GETPIVOTDATA** formula to pull each state’s % of total revenue from the PivotTable
 
-- Visualization Strategy:
+- Visualization Strategy: A Map Chart was chosen because geographic cognition is fast—users can spot regional revenue clusters in a single glance, something a table or bar chart would obscure.
   
-- Key Business Takeaways:
+- Key Business Takeaways: Illinois, California, Texas, and Georgia lead the pack, each contributing close to (or above) 2.3 % of total revenue for the selected product line.
 
 
 #### Impact of Subscription Status on Customer Loyalty by Purchase Frequency - Clustered Bar Chart
@@ -89,11 +89,11 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 ![image](https://github.com/user-attachments/assets/00e9f7ad-e867-4d69-acd6-724eb19ab147)
 
 
-- Tools & Techniques Used: 
+- Tools & Techniques Used: Built a **horizontal clustered‑bar chart** sourced from a PivotTable that calculates the average loyalty score for every combination of Subscription Status and Purchase Frequency.
 
-- Visualization Strategy:
+- Visualization Strategy: Clustering the seven frequency bars under each Yes/No band lets the viewer compare within a subscription group and between groups in one glance.
   
-- Key Business Takeaways:
+- Key Business Takeaways: Among subscribers, Bi‑Weekly (27.1) and Weekly (26.7) purchasers exhibit the strongest loyalty, indicating that high‑engagement customers respond well to subscription benefits.
 
 
 ### Slicers
