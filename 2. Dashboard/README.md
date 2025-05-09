@@ -42,8 +42,6 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 
 - Visualization Strategy: Incorporated **relevant icons** and **shape formatting** to visually highlight key metrics, making the dashboard more intuitive and engaging.
 
-- Data Structuring Approach: Defined named ranges to dynamically display top-performing categories and payment methods in response to user-selected filters.
-
 - Key Business Takeaways: Clothing consistently ranks as the top product category, with PayPal as the preferred payment method. The average order value is $59.76, offering valuable insight for pricing and promotional strategies.
 
 
@@ -58,8 +56,6 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 
 - Visualization Strategy: A stacked layout was chosen so every bar shows both total revenue and the seasonal mix for each demographic at a glance.
   
-- Data Structuring Approach: A pivot table aggregates that data into a Demographic and Season matrix; the chart is connected to this pivot so slicing by Gender, Age Group, or Season instantly refreshes both total revenues and demographic segments.
-  
 - Key Business Takeaways: Senior customers contribute the least (less than $20K total revenue). This under‑penetrated group could respond to age‑appropriate loyalty perks or simplified purchase flows.
 
 
@@ -69,13 +65,11 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 ![image](https://github.com/user-attachments/assets/4876f28f-b51b-428b-944b-a7f08dd1d4af)
 
 
-- Tools & Techniques Used: 
+- Tools & Techniques Used: Implemented a clustered-bar PivotChart to effectively display a side-by-side layout, allowing for quick sentiment comparisons across shipping methods, accommodating long labels, and highlighting subtle differences.
 
-- Visualization Strategy:
+- Visualization Strategy: A clustered layout isolates each rating category (Very Satisfied → Satisfied → Acceptable → Dissatisfied) side‑by‑side, making it easy to compare sentiment across shipping methods while still seeing the internal mix within each cluster.
   
-- Data Structuring Approach:
-  
-- Key Business Takeaways:
+- Key Business Takeaways: Very‑Satisfied ratings are scarce (< 3 % across the board), indicating that while most customers deem the service "okay," very few are genuinely delighted. A "surprise‑and‑delight initiative" (e.g., proactive delivery updates or small unboxing perks) could move the needle.
 
 
 #### Geographic Distribution of Revenue by Product Type - Map Chart 
@@ -86,8 +80,6 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 - Tools & Techniques Used: 
 
 - Visualization Strategy:
-  
-- Data Structuring Approach:
   
 - Key Business Takeaways:
 
@@ -100,8 +92,6 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 - Tools & Techniques Used: 
 
 - Visualization Strategy:
-  
-- Data Structuring Approach:
   
 - Key Business Takeaways:
 
@@ -118,8 +108,6 @@ This **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 - Visualization Strategy: Created **dynamic Pivot Charts** linked to slicers for real-time filtering by demographics, seasons, and product categories. Helped visualize patterns like seasonal trends or demographic preferences
   
 - Data Structuring Approach: Structured data in a **clean, tabular format** with consistent category labels to support seamless filtering and grouping in slicers and Pivot Tables
-  
-- Key Business Takeaways:
   - Instantly compare metrics (e.g., revenue or loyalty) by season, age group, or item type  
   - Identify target segments and product trends easily  
   - Enhances decision-making with interactive, filterable insights
